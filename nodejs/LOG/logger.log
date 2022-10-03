@@ -1,0 +1,460 @@
+error:05-15-2022 12:16:43:ho no!
+error:05-15-2022 12:16:48:Baby is not a constructor
+error:05-15-2022 12:17:16:Baby is not a constructor
+error:05-15-2022 12:17:17:Baby is not a constructor
+error:05-15-2022 12:18:32:Baby is not a constructor
+error:05-15-2022 12:19:52:Baby is not a constructor
+error:05-15-2022 12:21:13:ho no!
+error:05-15-2022 12:21:53:Baby is not a constructor
+error:05-15-2022 12:27:10:ho no!
+error:05-15-2022 12:27:51:ho no!
+error:05-15-2022 12:30:36:ho no!
+error:05-15-2022 12:32:03:ho no!
+error:05-15-2022 12:32:32:ho no!
+error:05-15-2022 12:35:19:ho no!
+error:05-15-2022 12:35:40:Baby is not a constructor
+error:05-15-2022 12:37:17:ho no!
+error:05-15-2022 12:39:03:ho no!
+error:05-15-2022 12:41:36:ho no!
+error:05-15-2022 13:38:30:ho no!
+error:05-15-2022 13:40:46:E11000 duplicate key error collection: 212328231miriam&rivki.babiesschemas index: Email_1 dup key: { : "sarilevi@gmail.com" }
+error:05-15-2022 13:46:57:ho no!
+error:05-15-2022 14:09:43:ho no!
+error:05-15-2022 14:31:37:ho no!
+error:05-16-2022 11:47:28:ho no!
+error:05-16-2022 12:22:53:ho no!
+error:05-16-2022 12:27:37:ho no!
+error:05-16-2022 13:45:55:ho no!
+error:05-16-2022 13:46:47:ho no!
+error:05-16-2022 13:48:30:ho no!
+error:05-16-2022 13:49:02:ho no!
+error:05-16-2022 13:52:50:ho no!
+error:05-16-2022 13:53:12:ho no!
+error:05-16-2022 14:06:47:ho no!
+error:05-16-2022 14:07:31:ho no!
+error:05-16-2022 14:07:55:ho no!
+error:05-16-2022 14:07:55:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "אפרוחים א" (type string) at path "Group"
+error:05-16-2022 14:08:24:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "א אפרוחים" (type string) at path "Group"
+error:05-16-2022 14:08:46:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "אפרוחים א" (type string) at path "Group"
+error:05-16-2022 14:10:30:BabiesSchema validation failed: Group: Cast to ObjectId failed for value "aa" (type string) at path "Group"
+error:05-16-2022 14:19:15:ho no!
+error:05-16-2022 14:21:04:ho no!
+error:05-16-2022 14:22:25:ho no!
+error:05-16-2022 14:23:06:ho no!
+error:05-16-2022 14:23:57:ho no!
+error:05-16-2022 14:26:58:ho no!
+error:05-16-2022 14:27:37:ho no!
+error:05-16-2022 14:37:33:ho no!
+error:05-16-2022 14:38:18:ho no!
+error:05-16-2022 14:39:18:ho no!
+error:05-16-2022 14:40:29:ho no!
+error:05-16-2022 14:42:51:ho no!
+error:05-16-2022 14:47:20:ho no!
+error:05-16-2022 14:49:56:ho no!
+error:05-16-2022 16:19:29:ho no!
+error:05-17-2022 13:13:24:ho no!
+error:05-18-2022 10:59:00:ho no!
+error:05-18-2022 10:59:42:ho no!
+error:05-18-2022 11:00:36:ho no!
+error:05-18-2022 12:50:00:ho no!
+error:05-18-2022 14:18:15:ho no!
+error:05-18-2022 14:47:16:ho no!
+error:05-22-2022 13:46:05:ho no!
+error:05-22-2022 15:01:01:E11000 duplicate key error collection: 212328231finalProject.babiesschemas index: Email_1 dup key: { : "sarilevi2@gmail.com" }
+error:05-23-2022 10:31:34:ho no!
+error:05-23-2022 10:56:05:ho no!
+error:05-23-2022 11:22:38:ho no!
+error:05-23-2022 11:27:37:ho no!
+error:05-23-2022 11:33:11:ho no!
+error:05-23-2022 11:33:27:ho no!
+error:05-23-2022 11:33:55:ho no!
+error:05-23-2022 11:38:51:ho no!
+error:05-23-2022 11:39:31:ho no!
+error:05-23-2022 11:46:16:ho no!
+error:05-23-2022 11:46:25:Cannot populate path `babyGroup` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:05-23-2022 11:46:33:Cannot populate path `babyGroup` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:05-23-2022 11:47:39:ho no!
+error:05-23-2022 11:49:15:ho no!
+error:05-23-2022 11:51:35:ho no!
+error:05-23-2022 11:56:24:ho no!
+error:05-23-2022 11:56:24:If you are populating a virtual, you must set the localField and foreignField options
+error:05-23-2022 11:56:56:ho no!
+error:05-23-2022 12:01:34:ho no!
+error:05-23-2022 12:01:41:ho no!
+error:05-23-2022 14:40:04:ho no!
+error:05-23-2022 14:42:57:ho no!
+error:05-23-2022 14:43:31:ho no!
+error:05-23-2022 14:45:21:ho no!
+error:05-23-2022 14:49:01:ho no!
+error:05-23-2022 14:51:48:ho no!
+error:05-23-2022 14:52:29:ho no!
+error:05-23-2022 14:56:55:ho no!
+error:05-23-2022 14:57:24:ho no!
+error:05-23-2022 14:57:54:ho no!
+error:05-23-2022 14:58:18:ho no!
+error:05-23-2022 14:59:08:ho no!
+error:05-23-2022 14:59:34:ho no!
+error:05-23-2022 15:00:07:ho no!
+error:05-23-2022 15:01:36:ho no!
+error:05-23-2022 15:01:37:Cannot populate path `descrepition` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:05-23-2022 15:01:56:ho no!
+error:05-23-2022 15:05:12:ho no!
+error:05-23-2022 15:08:25:ho no!
+error:05-23-2022 15:09:29:ho no!
+error:05-25-2022 12:27:50:ho no!
+error:05-25-2022 12:28:12:ho no!
+error:05-26-2022 14:35:48:ho no!
+error:05-26-2022 14:51:10:ho no!
+error:05-30-2022 14:48:42:ho no!
+error:05-30-2022 16:43:50:ho no!
+error:06-01-2022 11:28:58:ho no!
+error:06-01-2022 11:32:30:ho no!
+error:06-01-2022 11:44:09:ho no!
+error:06-01-2022 11:49:48:ho no!
+error:06-01-2022 11:50:19:ho no!
+error:06-01-2022 11:51:35:ho no!
+error:06-01-2022 11:52:07:ho no!
+error:06-01-2022 11:52:19:ho no!
+error:06-01-2022 11:52:46:ho no!
+error:06-01-2022 11:54:09:ho no!
+error:06-01-2022 12:08:08:ho no!
+error:06-01-2022 12:08:33:ho no!
+error:06-01-2022 12:08:54:ho no!
+error:06-01-2022 12:09:33:Cannot access 'Dose' before initialization
+error:06-01-2022 12:10:16:ho no!
+error:06-01-2022 12:11:35:ho no!
+error:06-01-2022 12:12:19:dose is not defined
+error:06-01-2022 12:12:42:ho no!
+error:06-01-2022 12:19:28:mealSchema validation failed: age: `6-12` is not a valid enum value for path `age`.
+error:06-01-2022 12:20:06:ho no!
+error:06-01-2022 12:21:09:mealSchema validation failed: doses.0: Cast to [ObjectId] failed for value "[ 'גבינה', 'ביצה' ]" (type string) at path "doses.0"
+error:06-01-2022 12:22:28:ho no!
+error:06-01-2022 12:22:56:ho no!
+error:06-01-2022 12:22:58:Cannot populate path `dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:24:40:ho no!
+error:06-01-2022 12:24:41:Cannot populate path `Dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:28:23:Cannot populate path `Dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:28:24:Cannot populate path `Dose` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error:06-01-2022 12:29:02:ho no!
+error:06-01-2022 12:29:41:Cast to ObjectId failed for value "62972f6e54c05f0f565ce100\n" (type string) at path "_id" for model "doseSchema"
+error:06-01-2022 12:32:47:ho no!
+error:06-14-2022 10:38:25:ho no!
+error:06-26-2022 10:35:11:ho no!
+error:06-27-2022 12:37:02:ho no!
+error:06-27-2022 13:13:07:ho no!
+error:06-27-2022 13:14:23:ho no!
+error:06-27-2022 13:18:42:ho no!
+error:06-27-2022 13:18:56:ho no!
+error:06-27-2022 13:19:55:ho no!
+error:06-27-2022 13:21:56:ho no!
+error:06-27-2022 13:22:04:ho no!
+error:06-27-2022 13:22:57:ho no!
+error:06-27-2022 14:06:30:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:09:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:10:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:11:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:13:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:16:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:19:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:20:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:21:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:22:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:24:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:25:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:26:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:26:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:28:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:29:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:29:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:30:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:31:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:31:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:32:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:33:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:33:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:34:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:34:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:07:35:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:05:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:05:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:05:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:06:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:14:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:09:52:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:34:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:37:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:40:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:42:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:43:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:44:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:45:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:46:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:47:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:47:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:48:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:49:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:49:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:50:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:51:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:51:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:52:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:54:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:55:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:55:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:56:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:56:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:57:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:58:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:58:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:14:59:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:00:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:27:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:28:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:15:28:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:17:53:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:12:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-27-2022 14:18:18:Cast to ObjectId failed for value "id" (type string) at path "Group" for model "BabiesSchema"
+error:06-28-2022 14:15:14:ho no!
+error:06-29-2022 09:38:37:ho no!
+error:07-03-2022 12:14:22:ho no!
+error:07-05-2022 10:51:57:ho no!
+error:07-18-2022 19:26:12:ho no!
+error:07-24-2022 12:06:32:ho no!
+error:07-24-2022 12:10:36:ho no!
+error:07-24-2022 12:15:32:ho no!
+error:07-24-2022 12:20:33:ho no!
+error:07-24-2022 12:54:22:ho no!
+error:07-24-2022 13:04:04:ho no!
+error:07-24-2022 18:07:09:ho no!
+error:07-24-2022 18:07:27:ho no!
+error:07-24-2022 21:12:53:ho no!
+error:07-24-2022 22:13:36:ho no!
+error:07-24-2022 22:16:34:ho no!
+error:09-04-2022 12:40:53:ho no!
+error:09-04-2022 13:03:43:ho no!
+error:09-05-2022 10:30:17:ho no!
+error:09-05-2022 10:31:00:ho no!
+error:09-05-2022 10:45:19:ho no!
+error:09-05-2022 10:46:57:ho no!
+error:09-05-2022 10:48:30:ho no!
+error:09-05-2022 10:51:40:ho no!
+error:09-05-2022 11:03:32:ho no!
+error:09-05-2022 11:15:11:ho no!
+error:09-05-2022 11:17:36:ho no!
+error:09-05-2022 11:21:13:ho no!
+error:09-05-2022 11:23:57:ho no!
+error:09-05-2022 11:25:00:ho no!
+error:09-05-2022 11:29:53:ho no!
+error:09-05-2022 11:49:48:ho no!
+error:09-05-2022 11:52:51:ho no!
+error:09-05-2022 12:15:55:ho no!
+error:09-07-2022 21:15:56:ho no!
+error:09-08-2022 17:07:10:ho no!
+error:09-08-2022 17:52:45:ho no!
+error:09-08-2022 17:55:37:ho no!
+error:09-08-2022 17:57:04:ho no!
+error:09-08-2022 18:02:47:ho no!
+error:09-08-2022 18:07:51:ho no!
+error:09-08-2022 18:38:01:ho no!
+error:09-08-2022 18:42:11:ho no!
+error:09-08-2022 18:49:54:ho no!
+error:09-11-2022 19:47:03:ho no!
+error:09-11-2022 19:55:17:ho no!
+error:09-11-2022 19:59:00:ho no!
+error:09-11-2022 19:59:38:ho no!
+error:09-11-2022 20:05:56:ho no!
+error:09-11-2022 20:06:49:ho no!
+error:09-13-2022 12:57:15:ho no!
+error:09-13-2022 18:53:04:ho no!
+error:09-13-2022 18:57:34:ho no!
+error:09-13-2022 19:00:33:ho no!
+error:09-13-2022 19:28:03:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:09-13-2022 19:35:58:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:09-13-2022 19:36:27:ho no!
+error:09-13-2022 19:37:38:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:09-14-2022 14:26:53:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:09-14-2022 14:27:14:ho no!
+error:09-14-2022 14:27:26:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:09-14-2022 14:38:49:ho no!
+error:09-14-2022 14:40:02:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:09-14-2022 14:41:55:ho no!
+error:09-14-2022 14:44:07:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:09-15-2022 16:07:13:ho no!
+error:09-15-2022 16:25:10:Operation `newgroups.insertOne()` buffering timed out after 10000ms
+error:10-02-2022 13:27:48:ho no!
+error:10-02-2022 13:30:36:ho no!
